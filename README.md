@@ -12,4 +12,4 @@
 
 ![add to cart](layout/image-2.png)
 
-![skeleton](layout/image.png)
+![skeleton](layout/image-3.png)
